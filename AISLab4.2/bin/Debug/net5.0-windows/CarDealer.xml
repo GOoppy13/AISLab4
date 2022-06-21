@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CarDealer>
+  <car id="1">
+    <model>Mark2</model>
+    <company>Toyota</company>
+    <price>800000</price>
+    <body>седан</body>
+    <responsible>Анатолий</responsible>
+    <power>200</power>
+  </car>
+  <car id="2">
+    <model>A80</model>
+    <company>Toyota</company>
+    <price>2400000</price>
+    <body>купе</body>
+    <responsible>Дмитрий</responsible>
+    <power>300</power>
+  </car>
+  <car id="3">
+    <model>GT-R</model>
+    <company>Nissan</company>
+    <price>4600000</price>
+    <body>купе</body>
+    <responsible>Татьяна</responsible>
+    <power>550</power>
+  </car>
+  <car id="4">
+    <model>Civic</model>
+    <company>Honda</company>
+    <price>900000</price>
+    <body>хетчбек</body>
+    <responsible>Константин</responsible>
+    <power>150</power>
+  </car>
+  <car id="5">
+    <model>RX-7</model>
+    <company>Mazda</company>
+    <price>2400000</price>
+    <body>купе</body>
+    <responsible>Михаил</responsible>
+    <power>300</power>
+  </car>
+</CarDealer>
