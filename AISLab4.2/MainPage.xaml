@@ -37,7 +37,7 @@
             </TextBlock>
         </StackPanel>
         <StackPanel Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center">
-            <TextBlock>АИС лабораторная 3</TextBlock>
+            <TextBlock>АИС лабораторная 4</TextBlock>
         </StackPanel>
         <StackPanel>
             <StatusBar />
